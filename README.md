@@ -1,4 +1,4 @@
-Tap here for quick review of my project :- https://replit.com/@umeshmehta14/quiz-friends-1#index.js?embed=1&output=1
+Tap here for quick review of my project :- https://replit.com/@umeshmehta14/quiz-friends-1?embed=1&output=1
 
 ABOUT SITE :- This is an CLI app where you can play a quiz typr QnA questions related to money heist web-series.
 
